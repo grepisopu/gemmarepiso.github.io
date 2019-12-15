@@ -2,7 +2,35 @@ theme: jekyll-theme-minimal
 title: [Gemma Repiso-Puigdelliura]
 description: [PhD Student Spanish and Portuguese]
 show_downloads: false
-logo: https://github.com/gemmarepiso/page/blob/assets/biogemma.jpg
 social-network-links:
   rss: true
   email: "grepisopu@ucla.edu"
+layout: sidebar
+style: light
+
+plugins:
+  - jekyll-octicons
+  - jekyll-github-metadata
+  - jemoji
+
+permalink: /:year/:month/:day/:title/
+
+defaults:
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
+      type: "posts"
+    values:
+      layout: "post"
+
+projects:
+  sort_by: pushed
+  # sort_by options:
+  #   - pushed
+  #   - stars
+  limit: 9
+  exclude:
+    archived: false
+    forks: true
+    projects:
+    # - repo-name
