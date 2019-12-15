@@ -2,7 +2,7 @@
 
 # About me
 
-I am a PhD student at the Spanish and Portuguese Department at UCLA. I am interested in modeling language transfer in child and adult heritage phonology. In particular, I am currently working on across-word boundaries empty onset repair strategies, voiced palatal obstruents and Spanish rhoticity.
+ I am interested in modeling language transfer in child and adult heritage phonology. I am currently working on empty onset repair strategies, voiced palatal obstruents and Spanish rhoticity.
 
 I have taught courses for Spanish heritage speakers and designed hybrid courses for L2 Catalan learners.
 
