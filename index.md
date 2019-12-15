@@ -20,7 +20,7 @@ Repiso i Puigdelliura, G., & Fernández-Villanueva, M. (2016). Analysing German 
 
  Repiso-Puigdelliura Gemma, Benvenuti Isabel, Kim Ji Young . (October, 2019). Heritage Speakers' Production of Palatal Fricatives. Hispanic Linguistics Symposium, El Paso, USA. [abstract](https://github.com/gemmarepiso/gemmarepiso.github.io/blob/assets-1/Palatal_Fricatives_HLS_2019.pdf?raw=true)
 
-Repiso-Puigdelliura Gemma,Kim Ji Young . (November, 2019). The acquisition of the Spanish trill in child and adult heritage speakers, r-atics 6, Paris, France. [abstract]
+Repiso-Puigdelliura Gemma,Kim Ji Young . (November, 2019). The acquisition of the Spanish trill in child and adult heritage speakers, r-atics 6, Paris, France. [abstract](https://github.com/gemmarepiso/gemmarepiso.github.io/blob/assets-1/Abstract%20R-atics.pdf)
 
 Kim Ji Young, Repiso-Puigdelliura Gemma. (October, 2018). Understanding the Shapes and Meanings of uptalk in heritage speakers of Spanish, Hispanic Linguistics Symposium, Austin, TX.
 
