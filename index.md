@@ -1,37 +1,34 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/gemmarepiso/page/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# About me
 
-### Markdown
+I am a PhD student at the Spanish and Portuguese Department at UCLA. I am interested in modeling language transfer in child and adult heritage phonology. In particular, I am currently working on across-word boundaries empty onset repair strategies, voiced palatal obstruents and Spanish rhoticity.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+I have taught courses for Spanish heritage speakers and designed hybrid courses for L2 Catalan learners.
 
-```markdown
-Syntax highlighted code block
+## Publications
 
-# Header 1
-## Header 2
-### Header 3
+Tudela-Isanta, A., Vidal-Arráez, J., Repiso-Puigdelliura, G., Manuel-Oronich, R. (in press). Característiques de l’alumnat de català L2 fora del domini lingüístic. Treballs de Sociolingüística
 
-- Bulleted
-- List
+Kim, J. Y., & Repiso- Puigdelliura, G. (2019). Deconstructing Heritage Language Dominance: Effects of Proficiency, Use, and Input on Heritage Speakers’ Production of the Spanish Alveolar Tap. Phonetica, 1-26. 
 
-1. Numbered
-2. List
+Repiso i Puigdelliura, G., & Fernández-Villanueva, M. (2016). Analysing German teachers’ identities through multimodal and multilingual use. (M. Fernandez-Villanueva & K. Jungbluth, Eds.), Beyond Language Boundaries: Multimodal Use in Multilingual Contexts. Berlin: de Gruyter Mouton. https://doi.org/10.1515/9783110458817-007
 
-**Bold** and _Italic_ and `Code` text
+## Presentations
 
-[Link](url) and ![Image](src)
-```
+ Repiso-Puigdelliura Gemma . (October, 2019). The intonation of child heritage speakers. Hispanic Linguistics Symposium, El Paso, USA.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+ Repiso-Puigdelliura Gemma, Benvenuti Isabel, Kim Ji Young . (October, 2019). Heritage Speakers' Production of Palatal Fricatives. Hispanic Linguistics Symposium, El Paso, USA. [abstract]
 
-### Jekyll Themes
+Repiso-Puigdelliura Gemma,Kim Ji Young . (November, 2019). The acquisition of the Spanish trill in child and adult heritage speakers, r-atics 6, Paris, France. [abstract]
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/gemmarepiso/page/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Kim Ji Young, Repiso-Puigdelliura Gemma. (October, 2018). Understanding the Shapes and Meanings of uptalk in heritage speakers of Spanish, Hispanic Linguistics Symposium, Austin, TX.
 
-### Support or Contact
+Kim Ji Young, Repiso-Puigdelliura  Gemma. (February, 2018). The Forms and Functions of of Uptalk in Spanish Prosody by Spanish Heritage Speakers in Los Angeles, Heritage Language Conference, Los Angeles, CA.
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Kim Ji Young, Repiso-Puigdelliura Gemma. (February, 2018). Phonetic and Phonological Analysis of Uptalk in Heritage Spanish, Current Approaches to Spanish and Portuguese Second Language Phonology (CASPSLaP), Bloomington, IN.
+
+
+Kim Ji Young, Repiso-Puigdelliura Gemma . (October, 2017). Use of continuous measures in examining heritage speakers’ production of Spanish alveolar tap /ɾ/, Hispanic Linguistics Symposium, Lubbock, USA.
+
+Kim Ji Young, Repiso-Puigdelliura Gemma.  (November, 2017). Can you roll your rhotics?, New Ways of Analyzing Variation, Madison, IL
