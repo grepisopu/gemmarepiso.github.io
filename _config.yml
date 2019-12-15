@@ -2,7 +2,7 @@ theme: jekyll-theme-minimal
 title: [Gemma Repiso-Puigdelliura]
 description: [PhD Student Spanish and Portuguese]
 show_downloads: false
-logo: page/blob/assets/biogemma.jpg
+logo: https://github.com/gemmarepiso/page/blob/assets/biogemma.jpg
 social-network-links:
   rss: true
   email: "grepisopu@ucla.edu"
