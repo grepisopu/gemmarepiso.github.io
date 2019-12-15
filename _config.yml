@@ -2,7 +2,6 @@ theme: jekyll-theme-minimal
 title: [Gemma Repiso-Puigdelliura]
 description: [PhD Student Spanish and Portuguese]
 show_downloads: false
-logo: "/gemmarepiso/page/biogemma.jpg"
 
 social-network-links:
   rss: true
