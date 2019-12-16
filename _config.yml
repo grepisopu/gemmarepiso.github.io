@@ -9,6 +9,21 @@ social-network-links:
 layout: sidebar
 style: light
 
+
+# Collections
+collections:
+  teaching:
+    output: true
+    permalink: /:collection/:path/
+  publications:
+    output: true
+    permalink: /:collection/:path/
+  portfolio:
+    output: true
+    permalink: /:collection/:path/
+  talks:
+    output: true
+    permalink: /:collection/:path/
 plugins:
   - jekyll-octicons
   - jekyll-github-metadata
