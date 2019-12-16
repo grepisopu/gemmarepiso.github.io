@@ -1,7 +1,7 @@
 
-# Appointments
+## Appointments
 
-## UCLA, Principal Instructor (Lecturership Appointment)
+### UCLA, Principal Instructor (Lecturership Appointment)
 
 Catalan Language and Culture I : Fall 2015 Winter 2016 Fall 2016
 
@@ -17,12 +17,12 @@ Introductory Spanish for Heritage Speakers: Spring 2018
  
  Elementary Spanish: Fall 2015 
 
-## UCLA, Sole Instructor (Teaching Associate)
+### UCLA, Sole Instructor (Teaching Associate)
 Hybrid Catalan Language and Culture I : Fall 2018  Winter 2019
 
 Catalan Language and Culture II: Spring 2019
 
-### Selected Presentations
+### Selected Presentations on Hybrid Teaching
 
 Repiso-Puigdelliura, Gemma. (2019). How Online Teaching Can Enrich Research, Improve Teaching, and Increase Enrollments: The University of California Experience. Special Session at the Modern Language Association Convention, Chicago, IL. 
 
