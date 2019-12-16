@@ -4,7 +4,7 @@
 
  I am interested in modeling language transfer in child and adult heritage phonology. I am currently working on empty onset repair strategies, voiced palatal obstruents and Spanish rhoticity.
 
-I have taught courses for Spanish heritage speakers and designed hybrid courses for L2 Catalan learners.
+I have [taught](./teaching.html) courses for Spanish heritage speakers and designed hybrid courses for L2 Catalan learners.
 
 ## Publications
 
