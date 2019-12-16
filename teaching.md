@@ -1,4 +1,5 @@
-#Appointments
+
+# Appointments
 
 ## UCLA, Principal Instructor (Lecturership Appointment)
 
@@ -14,11 +15,11 @@ Introductory Spanish for Heritage Speakers: Spring 2018
 Hybrid Catalan Language and Culture I : Fall 2018  Winter 2019
 Catalan Language and Culture II: Spring 2019
 
-###Selected Presentations
+### Selected Presentations
 Repiso-Puigdelliura, Gemma. (January, 2019). How Online Teaching Can Enrich Research, Improve Teaching, and Increase Enrollments: The University of California Experience. Special Session at the Modern Language Association Convention, Chicago, IL. 
 Repiso-Puigdelliura, Gemma. (May, 2018). Catalan Hybrid Course: Pedagogical Adjustments and Opportunities, Course Sharing UC Dean of Humanities, UCLA, CA.
 
-###Service
+### Service
 Symposium organizer with John Dagenais. "Of Books and Roses": Second California Symposium on Catalan Studies, UCLA, CA, April 2018.
 Symposium organizer with John Dagenais. "Of Books and Roses": First California Symposium on Catalan Studies, UCLA, CA, April 2017
   
