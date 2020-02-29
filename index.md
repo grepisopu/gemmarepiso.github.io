@@ -16,6 +16,8 @@ Repiso i Puigdelliura, G., & Fernández-Villanueva, M. (2016). Analysing German 
 
 ## Presentations
 
+ Repiso-Puigdelliura Gemma. (2020). Spanish Resyllabification in Child and Adult Heritage Speakers. Current Approaches to Spanish and Portuguese Second Language Phonology, San José, USA. [slides]
+
  Repiso-Puigdelliura Gemma. (2019). The intonation of child heritage speakers. Hispanic Linguistics Symposium, El Paso, USA.
 
  Repiso-Puigdelliura Gemma, Benvenuti Isabel, Kim Ji Young . (2019). Heritage Speakers' Production of Palatal Fricatives. Hispanic Linguistics Symposium, El Paso, USA. [abstract](https://github.com/gemmarepiso/gemmarepiso.github.io/blob/assets-1/Palatal_Fricatives_HLS_2019.pdf?raw=true)
